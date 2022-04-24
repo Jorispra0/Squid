@@ -10,7 +10,7 @@ HOW TO USE: (batch)
 6. Save the changes and exit the txt editor
 7. Open Connections
 8. The ip you pasted is getting pinged
-
+---
 how to terminate connections: 
 
 open "second" and install netcut
