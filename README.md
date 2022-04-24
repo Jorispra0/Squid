@@ -12,7 +12,8 @@ HOW TO USE: (batch)
 8. The ip you pasted is getting pinged
 
 how to terminate connections: 
-open "second and install netcut
+
+open "second" and install netcut
 after 40 seconds you will be redirected to the connection
 
 
